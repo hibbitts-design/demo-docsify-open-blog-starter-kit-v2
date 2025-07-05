@@ -1,16 +1,44 @@
-# My Open Publishing Space
+# My Open Blog
 
 ## Create, Share and Collaborate
 
-![Photo of Mountain](images/mountain.jpg ":no-zoom")
+Totos utinamque nutricis. Lycaona cum non sine vocatur tellus campus insignia et
+absumere pennas Cythereiadasque pericula meritumque Martem longius ait moras
+aspiciunt fatorum. Famulumque volvitur vultu terrae ut querellas hosti deponere
+et dixit est; in pondus fonte desertum. Condidit moras, Carpathius viros, tuta
+metum aethera occuluit merito mente tenebrosa et videtur ut Amor et una
+sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
+*hectora candidus*!
 
-[Docsify](https://docsify.js.org/#/) can generate article, portfolio and documentation websites on the fly. Unlike Docusaurus, Hugo and many other Static Site Generators (SSG), it does not generate static html files. Instead, it smartly loads and parses your Markdown content files and displays them as a website.
+<div class="card-list">
+  <div class="card-rounded">
 
-## Website Pages
-- [Introduction](introduction.md)
-- [Topic One](topic-one.md)
-- [Topic Two](topic-two.md)
-- Topic Three
-    - [Overview](topic-three-overview.md)
-    - [Subtopic One](topic-three-subtopic-one.md)
-    - [Subtopic Two](topic-three-subtopic-two.md)
+  [![Blog Post Image](images/markdown-red.png)](introduction.md)
+
+  ## [Introduction](introduction.md)
+
+  <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
+  
+  Blog post preview text goes here with more details about the content.  
+
+  Jan 1, 1970. 
+
+  [Read More](introduction.md ":class=navpill")
+
+  </div>
+  <div class="card-rounded">
+
+  [![Blog Post Image](images/chase-moyer-730496-unsplash.jpg)](standalone-page.md)
+
+  ## [Standalone Page](standalone-page.md ":no-zoom")
+
+  <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
+
+  Another blog post preview with different content.  
+
+  Jan 1, 1970. 
+
+  [Read More](standalone-page.md ":class=navpill")
+    
+  </div>
+</div>

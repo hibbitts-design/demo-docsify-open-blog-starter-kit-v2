@@ -1,3 +1,5 @@
+[←Home](/#)
+
 # Introduction
 
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
