@@ -1,3 +1,5 @@
+![Mountain](images/mountain.jpg ":class=header-tall-image-full-width")
+
 # My Open Blog
 
 ## Create, Share and Collaborate
@@ -11,34 +13,43 @@ sonantia. Fuit quoque victa et, dum ora rapinae nec ipsa avertere lata, profugum
 *hectora candidus*!
 
 <div class="card-list">
-  <div class="card-rounded">
+  <div class="card">
 
-  [![Blog Post Image](images/markdown-red.png)](introduction.md)
+  [![Blog Post Image](focus-and-blur/unsplash-focus.jpg)](focus-and-blur/item.md)
 
-  ## [Introduction](introduction.md)
-
-  <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
+  ## [Focus and Blur](focus-and-blur/item.md)
   
+  <small>21st Jun 2017 </small>
+
   Blog post preview text goes here with more details about the content.  
 
-  Jan 1, 1970. 
-
-  [Read More](introduction.md ":class=navpill")
+  [Read More](focus-and-blur/item.md ":class=navpill")
 
   </div>
-  <div class="card-rounded">
+  <div class="card">
 
-  [![Blog Post Image](images/chase-moyer-730496-unsplash.jpg)](standalone-page.md)
+  [![Blog Post Image](classic-modern-architecture/unsplash-luca-bravo.jpg)](classic-modern-architecture/item.md)
 
-  ## [Standalone Page](standalone-page.md ":no-zoom")
+  ## [Classic Modern Architecture](classic-modern-architecture/item.md)
 
-  <span class='badge'> Tag 1</span> <span class='badge'> Tag 2</span>
+  <small>27th Jun 2017 </small>
 
   Another blog post preview with different content.  
 
-  Jan 1, 1970. 
+  [Read More](classic-modern-architecture/item.md ":class=navpill")
+    
+  </div>
+    <div class="card">
 
-  [Read More](standalone-page.md ":class=navpill")
+  [![Blog Post Image](london-at-night/unsplash-london-night.jpg)](london-at-night/item.md)
+
+  ## [London at Night](london-at-night/item.md)
+
+  <small>7th Jun 2017</small>
+
+  Another blog post preview with different content.  
+
+  [Read More](london-at-night/item.md ":class=navpill")
     
   </div>
 </div>

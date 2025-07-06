@@ -256,7 +256,7 @@
             var editHtml = '[:memo:' + editThisPageLinkText + '](' + url + ' ":class=align-items-vertically")\n'
 
             if ((!(getURLParameterByName('hidegitlink'))) && (!!gitLinkRepoURL)) {
-              return editHtml + '\n' + html
+              return html + '<br />' + '\n\n' + editHtml
             } else {
               return html
             }
