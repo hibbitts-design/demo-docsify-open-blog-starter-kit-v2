@@ -1,4 +1,4 @@
-![Plant, which blurs into the distance](unsplash-focus.jpg ":class=header-tall-image-full-width-header-overlay :no-zoom")
+![Plant, which blurs into the distance](unsplash-focus.jpg ":class=header-tall-image-full-with-headings-overlay :no-zoom")
 
 # Focus and Blur
 
