@@ -1,4 +1,4 @@
-![Modern building](unsplash-luca-bravo.jpg ":class=header-tall-image-full-width")
+![Modern building](unsplash-luca-bravo.jpg ":class=header-tall-image-full-width :no-zoom")
 
 [←Home](home.md)
 
