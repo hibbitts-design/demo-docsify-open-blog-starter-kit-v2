@@ -1,4 +1,4 @@
-![Modern building](unsplash-luca-bravo.jpg ":class=header-tall-image-full-width-header-overlay :no-zoom")
+![Modern building](unsplash-luca-bravo.jpg ":class=header-tall-image-full-with-headings-overlay :no-zoom")
 
 # Classic Modern Architecture
 
